@@ -2,9 +2,9 @@
 🎓 Information Systems & Technology Student | ☕ Aspiring backend developer (Java)  
 📍 Belgrade, Serbia | 🌐 [www.stajkovicluka.tech](https://www.stajkovicluka.tech)
 
-## Get in Touch
+### Get in Touch
 If you want to reach out, you can email me directly at:
-[📧 luka.stajkovic.vb@gmail.com](mailto:luka.stajkovic.vb@gmail.com)
+[luka.stajkovic.vb@gmail.com](mailto:luka.stajkovic.vb@gmail.com)
 
 <div align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" alt="Java">
