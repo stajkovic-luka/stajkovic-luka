@@ -1,6 +1,6 @@
 # Luka Stajković
-🎓 Information Systems & Technology Student | ☕ Aspiring backend developer (Java)
-📍 Belgrade, Serbia
+🎓 Information Systems & Technology Student | ☕ Aspiring backend developer (Java)  
+📍 Belgrade, Serbia | 🌐 [www.stajkovicluka.tech](https://www.stajkovicluka.tech)
 
 <div align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" alt="Java">
@@ -31,7 +31,7 @@ Currently seeking an **internship opportunity** to grow as a backend developer.
 
 **Volunteer Coordinator** @ Heapcon (Heapspace)  
 `2022 - 2024`  
-✔ Led check-in team at Serbia's largest developer conference  (Heapcon 2023)
+✔ Led check-in team at Serbia's largest developer conference  
 ✔ Coordinated volunteers and delegated tasks under pressure  
 ✔ 3 consecutive years of participation  
 
