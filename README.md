@@ -27,7 +27,7 @@ Currently seeking an **internship opportunity** to grow as a backend developer.
 | **[StudentskoOdmaralisteApp](https://github.com/stajkovic-luka/StudentskoOdmaralisteApp)** | Java, JDBC, MySQL, Swing      | Client-server vacation booking system with socket communication and design patterns |
 | **[FighterAPI](https://github.com/stajkovic-luka/FighterAPI)**                             | Java, Spring Boot, Hibernate  | REST API built with Spring Boot using Kaggle dataset                                |
 | **[ConsoleGroupChat](https://github.com/stajkovic-luka/ConsoleGroupChat)**                 | Java, Sockets, Multithreading | Multithreaded console chat application for multiple users                           |
-| **[FitnessWebApplication](https://github.com/stajkovic-luka/fitnessWebApp))**              | Laravel, React, MySQL         | Full-stack web application with REST API and tested endpoints                       |
+| **[FitnessWebApplication](https://github.com/stajkovic-luka/fitnessWebApp)**              | Laravel, React, MySQL         | Full-stack web application with REST API and tested endpoints                       |
 
 ## 💼 Experience
 
@@ -71,4 +71,4 @@ Natural Sciences and Mathematics `2017 - 2021`
 [![GitHub|65](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/stajkovic-luka)
 
 ---
-*Open to internship opportunities in backend development* 
+*Open to internship opportunities* 
