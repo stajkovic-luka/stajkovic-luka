@@ -2,6 +2,8 @@
 🎓 Information Systems & Technology Student | ☕ Aspiring backend developer (Java)  
 📍 Belgrade, Serbia | 🌐 [www.stajkovicluka.tech](https://www.stajkovicluka.tech)
 
+
+
 <div align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=spring-boot&logoColor=white" alt="Spring Boot">
