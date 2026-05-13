@@ -1,5 +1,5 @@
 # Luka Stajković
-🎓 Information Systems & Technology Student | ☕ Aspiring backend developer (Java)  
+🎓 Information Systems & Technology Student | ☕ Aspiring dev
 📍 Belgrade, Serbia | 🌐 [www.stajkovicluka.tech](https://www.stajkovicluka.tech)
 
 
@@ -24,10 +24,10 @@ Currently seeking an **internship opportunity** to grow as a backend developer.
 ## 🔥 Featured Projects
 | Project                                                                                    | Technologies                  | Description                                                                         |
 | ------------------------------------------------------------------------------------------ | ----------------------------- | ----------------------------------------------------------------------------------- |
-| **[StudentskoOdmaralisteApp](https://github.com/stajkovic-luka/StudentskoOdmaralisteApp)** | Java, JDBC, MySQL, Swing      | Client-server vacation booking system with socket communication and design patterns |
+| **[VacationReservationApp](https://github.com/stajkovic-luka/VacationReservationApp)** | Java, JDBC, MySQL, Swing      | Client-server vacation booking system with socket communication and design patterns |
 | **[FighterAPI](https://github.com/stajkovic-luka/FighterAPI)**                             | Java, Spring Boot, Hibernate  | REST API built with Spring Boot using Kaggle dataset                                |
 | **[ConsoleGroupChat](https://github.com/stajkovic-luka/ConsoleGroupChat)**                 | Java, Sockets, Multithreading | Multithreaded console chat application for multiple users                           |
-| **[FitnessWebApplication](https://github.com/stajkovic-luka/fitnessWebApp)**              | Laravel, React, MySQL         | Full-stack web application with REST API and tested endpoints                       |
+| **[FitnessWebApp](https://github.com/stajkovic-luka/fitnessWebApp)**              | Laravel, React, MySQL         | Full-stack web application with REST API and tested endpoints                       |
 
 ## 💼 Experience
 
